@@ -1,0 +1,73 @@
+body{
+  margin: 0;
+  background-color: #66796b;
+}
+
+header {
+  height: 100vh;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/c/c3/Monet2.jpg);
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 50px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+}
+
+h1 {
+  width: 600px;
+  margin: 0 auto 20px;
+  font-family: 'Roboto:100', sans-serif;
+  color: #f3ebb8;
+  opacity: .9;
+  font-size: 50px;
+}
+p{
+  padding-left: 15%;
+  padding-right: 15%;
+  text-align: center;
+  letter-spacing: 1px;
+  word-spacing: 3px;
+  font-family: 'Roboto', sans-serif;
+}
+a{
+  text-decoration: none;
+  color: #A81A28;
+  opacity: .9;
+  font-size: 36px;
+}
+a:hover{
+  text-decoration: none;
+  color: #335533;
+}
+.footer{
+  background: #222222;
+  color: #f1f1f1;
+  font-size: 20px;
+  padding: 20px;
+}
+.footer h6{
+  font-size: 16px;
+  padding: 10px 0px 20px 0px;
+}
+.footer a{
+  color: #f1f1f1;
+}
+.footer a:hover{
+  color: #a0d6b4;
+}
