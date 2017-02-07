@@ -56,19 +56,25 @@ a:hover{
   color: #335533;
 }
 .footer{
-  background: #222222;
-  color: #f1f1f1;
+/*  background: #222222;*/
+  text-align: center;
+  color: #C1C9C3;
   font-size: 20px;
-  padding: 20px;
+  padding: 60px 10px 60px 10px;
 }
 .footer h6{
-  font-size: 16px;
+  font-size: 32px;
   padding: 10px 0px 20px 0px;
 }
 .footer a{
-  color: #f1f1f1;
+  color: #C1C9C3;
 }
 .footer a:hover{
-  color: #ffc0cb;
+  color: #f1f1f1;
 }
-/*COLOR FOR .FOOTER a0d6b4*/
+
+/*
+Colors I like
+C1C9C3
+
+*/
